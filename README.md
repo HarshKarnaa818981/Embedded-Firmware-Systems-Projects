@@ -60,7 +60,7 @@ A real-time road safety prototype designed for blind hairpin bends and wildlife-
 
 ---
 
-### 2. Phoenix FPGA-Based Intelligent Traffic Light Controller
+### 2. FPGA-Based Intelligent Traffic Light Controller
 
 **Verilog HDL • FPGA • FSM • Vivado • Smart Traffic Control**
 
@@ -86,15 +86,9 @@ An adaptive FPGA-based traffic management system developed by Team Phoenix for t
 
 ---
 
-## 📄 Resume
-
-📌 [Download Resume](./resume/Harsha_K_N_Resume.pdf)
-
----
-
 ## 📫 Contact
 
-- LinkedIn: `https://www.linkedin.com/in/harsha-k-n-9096222a3/)`
+- LinkedIn: `https://www.linkedin.com/in/harsha-k-n-9096222a3/`
 - GitHub: `https://github.com/your-HarshKarnaa818981`
 - Email: `harshaneeraj0@gmail.com`
 
