@@ -73,7 +73,7 @@ An adaptive FPGA-based traffic management system developed by Team Phoenix for t
 - Sensor fault detection using redundant sensor mismatch logic.
 - FSM-based priority flow: Emergency > Sensor Fault > Pedestrian > Adaptive Normal Flow.
 
-📁 [View Project](./projects/phoenix-fpga-traffic-controller)
+📁 [View Project](https://github.com/HarshKarnaa818981/phoenix)
 
 ---
 
