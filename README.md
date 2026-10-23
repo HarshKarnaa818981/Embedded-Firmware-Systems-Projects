@@ -1,7 +1,7 @@
 # Harsha K N — Embedded Systems & Firmware Portfolio
 
 <p align="center">
-  <img src="C:\Users\Harsha\Pictures\Screenshots\banner.png" alt="Embedded Systems Portfolio Banner" width="100%">
+  <img src="./banner.png" alt="Embedded Systems Portfolio Banner" width="100%">
 </p>
 
 <p align="center">
