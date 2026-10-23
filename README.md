@@ -56,7 +56,7 @@ A real-time road safety prototype designed for blind hairpin bends and wildlife-
 - Firmware states for WILDLIFE, SAFE, WAIT and GO alerts.
 - Sensor threshold tuning to reduce false triggering and unstable alerts.
 
-📁 [View Project](./projects/zero-latency-v2x-safety-network)
+📁 [View Project](https://github.com/HarshKarnaa818981/Zero-Latency-V2X-Safety-Network.git)
 
 ---
 
